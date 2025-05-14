@@ -111,6 +111,7 @@ react-weather-app/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+Email :- coderabhishek1@gmail.com
 
 ## Acknowledgments
 
