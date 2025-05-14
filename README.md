@@ -37,7 +37,7 @@ Before running this project, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abhishek-pandit1/weather-forecasting-app.git
+https://github.com/abhishek-pandit1/weather-forecasting-app
 ```
 
 2. Navigate to the project directory:
